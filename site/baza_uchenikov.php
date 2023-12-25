@@ -136,6 +136,7 @@ th {
         }
     }
 //312321
+//321321412
     echo "<h2>Добавить ученика:</h2>";
     echo "<form method='post'>";
     echo "<label for='snils'>СНИЛС:</label>";
