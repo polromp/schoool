@@ -187,6 +187,7 @@
 
                         } else {
                             echo 'Информация о директоре не найдена';
+                            // iuyiuyiu
                         }
 
                         $mysqli->close();
