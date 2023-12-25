@@ -197,10 +197,10 @@
                         } else {
                             echo 'Информация о директоре не найдена';
                             // kjhkjh
+                            //31232133214
                         }
                         session_start();
                         $_SESSION['var_name'] = $login;
-
 
                         //echo '<a href="tabel_ocenok_teacher.php?var_name=' . urlencode($login) . '">Табель оценок</a>';
                         $mysqli->close();

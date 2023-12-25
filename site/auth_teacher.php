@@ -20,6 +20,7 @@ if ($user) {
     header('Location: cabinet_uchitela.php?var_name='. urlencode($login));
     exit();
 }
+//dhsjakfg
 //eqeqw
 $result = $mysql->query("SELECT * FROM director WHERE snils = '$login' AND password = '$pass'");
 $user = $result->fetch_assoc();
@@ -34,3 +35,4 @@ if ($user) {
 $mysql->close();
 echo "Такой пользователь не найден";
 ?>
+//312312
