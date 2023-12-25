@@ -182,7 +182,7 @@
                             echo '<div class="info"><label for="date">Дата:</label><span>' . $row['date'] . '</span></div>';
                             echo '<div class="info"><label for="class">Класс:</label><span>' . $row['class'] . '</span></div>';
                             echo '<div class="info"><label for="class">Электронная почта:</label><span>' . $row['email'] . '</span></div>';
-
+// fjgjgjg
                         } else {
                             echo 'Информация об ученике не найдена';
                             // 7657657
