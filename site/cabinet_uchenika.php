@@ -185,6 +185,7 @@
 
                         } else {
                             echo 'Информация об ученике не найдена';
+                            // 7657657
                         }
                         session_start();
                         $_SESSION['var_name'] = $login;
