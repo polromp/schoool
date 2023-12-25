@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
 
     if ($_FILES["imageFile"]["size"] > 0) {
         $targetDir = "novost/";
-        $news_id = uniqid(); // Генерация уникального идентификатора для новости
+        $news_id = uniqid(); // Генерация уникаaльного идентификатора для новости
         $image_extension = pathinfo($_FILES["imageFile"]["name"], PATHINFO_EXTENSION);
         $image_file = "{$targetDir}{$news_id}.{$image_extension}";
 
