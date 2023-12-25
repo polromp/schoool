@@ -126,6 +126,7 @@ th {
                     echo "<td>" . $row['date'] . "</td>";
                     echo "</tr>";
                 }
+                //uytuyt
                 echo "</table>";
             } else {
                 echo '<p style="color: red;">Ученики данного класса не найдены</p>';
