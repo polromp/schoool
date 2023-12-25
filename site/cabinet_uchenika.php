@@ -20,7 +20,7 @@
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
 
-    /* Стили для сайдбара */
+    /* Стили для сайдбараa */
     .sidebar {
         width: 200px;
         padding: 20px;

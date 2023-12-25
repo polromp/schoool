@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Страница директора</title>
     <style>
-        /* Общие стили */
+        /* Общие стилиi */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
