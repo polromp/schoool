@@ -196,6 +196,7 @@
                     echo '<img src="' . $imageFile . '" class="news-image">';
                     echo '<div class="news-text">' . nl2br($newsText) . '</div>';
                     echo '</div>';
+                    // fgfgfg
                 }
             }
             ?>
