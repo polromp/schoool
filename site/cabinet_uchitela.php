@@ -196,6 +196,7 @@
 
                         } else {
                             echo 'Информация о директоре не найдена';
+                            // kjhkjh
                         }
                         session_start();
                         $_SESSION['var_name'] = $login;
