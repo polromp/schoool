@@ -135,7 +135,7 @@ th {
             echo '<p style="color: red;">Ошибка запроса к базе данных</p>';
         }
     }
-
+//312321
     echo "<h2>Добавить ученика:</h2>";
     echo "<form method='post'>";
     echo "<label for='snils'>СНИЛС:</label>";
