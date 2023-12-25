@@ -80,7 +80,7 @@ if ($mysqli->connect_error) {
     die('Ошибка подключения (' . $mysqli->connect_errno . ') ' . $mysqli->connect_error);
 }
 
-//$login = $_GET['vaar_name'] ?? '';
+//$login = $_GET['vaaar_name'] ?? '';
 
 session_start();
 $login = $_SESSION['var_name'];
