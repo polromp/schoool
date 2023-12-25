@@ -191,6 +191,7 @@
                         $_SESSION['var_name'] = $login;
                         //echo '<a href="tabel_ocenok_student.php?var_name=' . urlencode($login) . '">Табель оценок</a>';
                         $mysqli->close();
+                        //3213213
                     ?>
                 </div>
 
