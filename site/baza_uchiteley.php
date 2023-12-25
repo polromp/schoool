@@ -169,6 +169,7 @@
         } else {
             echo "<p style='color: red;'>Ошибка при удалении: " . $mysqli->error . "</p>";
         }
+        //fgfgfg
     }
 
     if (isset($_POST['add_teacher'])) {

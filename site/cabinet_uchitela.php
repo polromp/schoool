@@ -184,7 +184,7 @@
                             echo '<div class="info"><label for="class">Класс:</label><span>' . $row['class'] . '</span></div>';
                             echo '<div class="info"><label for="class">Должность:</label><span>' . $row['post'] . '</span></div>';
                             echo '<div class="info"><label for="class">Электронная почта:</label><span>' . $row['email'] . '</span></div>';
-
+// dfdfdfdf
                             $predmetaQuery = "SELECT predmet FROM predmet WHERE id = " . $row['id_predmeta'];
                             $predmetaResult = $mysqli->query($predmetaQuery);
                             if ($predmetaResult->num_rows > 0) {

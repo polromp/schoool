@@ -127,6 +127,7 @@ th {
                     echo "</tr>";
                 }
                 //uytuyt
+                // kjhkjh
                 echo "</table>";
             } else {
                 echo '<p style="color: red;">Ученики данного класса не найдены</p>';
