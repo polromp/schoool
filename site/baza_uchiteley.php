@@ -110,6 +110,7 @@
             }
         } else {
             echo '<tr><td colspan="8" style="color: red;">Нет данных об учителях</td></tr>';
+            //89768768
         }
         ?>
     </table>
