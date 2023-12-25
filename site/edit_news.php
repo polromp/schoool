@@ -15,6 +15,7 @@
         <input type="file" name="imageFile" id="newsImage"> <!-- Указано name="imageFile" -->
         <br>
         <input type="submit" value="Сохранить" name="submit"> <!-- Указано name="submit" -->
+        // fgfgfg
     </form>
 </body>
 </html>
